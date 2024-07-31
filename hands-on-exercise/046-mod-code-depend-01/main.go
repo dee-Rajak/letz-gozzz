@@ -7,6 +7,8 @@ import (
 )
 
 func main() {
+	puppy.From10()
+	puppy.From11()
 	s1 := puppy.Bark()
 	s2 := puppy.Barks()
 	fmt.Println(s1)
